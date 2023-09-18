@@ -9,4 +9,5 @@ For the full explanation regarding ETL process with Tableau Prep Builder, please
 ## Database Design
 
 The Database design for this project is presented within this Entity Relationship Diagram (ERD) as follows.
+
 ![USA Debit and Credit Cards Transactions Database Schema (Light)](https://github.com/madisuryapr/US-Debit-and-Credit-Cards-Transactions-Analysis/assets/91768688/30e11bfd-9a82-4c67-ad37-1d9fc6f2ae9b)
