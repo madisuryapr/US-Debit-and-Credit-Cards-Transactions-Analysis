@@ -1,0 +1,53 @@
+﻿StateCode;State;GeoDivisionID
+AL;Alabama;ESC
+AK;Alaska;PCF
+AZ;Arizona;MNT
+AR;Arkansas;WSC
+CA;California;PCF
+CO;Colorado;MNT
+CT;Connecticut;NEG
+DE;Delaware;SAC
+DC;District of Columbia;SAC
+FL;Florida;SAC
+GA;Georgia;SAC
+HI;Hawaii;PCF
+ID;Idaho;MNT
+IL;Illinois;ENC
+IN;Indiana;ENC
+IA;Iowa;WNC
+KS;Kansas;WNC
+KY;Kentucky;ESC
+LA;Louisiana;WSC
+ME;Maine;NEG
+MD;Maryland;SAC
+MA;Massachusetts;NEG
+MI;Michigan;ENC
+MN;Minnesota;WNC
+MS;Mississippi;ESC
+MO;Missouri;WNC
+MT;Montana;MNT
+NE;Nebraska;WNC
+NV;Nevada;MNT
+NH;New Hampshire;NEG
+NJ;New Jersey;MAC
+NM;New Mexico;MNT
+NY;New York;MAC
+NC;North Carolina;SAC
+ND;North Dakota;WNC
+OH;Ohio;ENC
+OK;Oklahoma;WSC
+OR;Oregon;PCF
+PA;Pennsylvania;MAC
+RI;Rhode Island;NEG
+SC;South Carolina;SAC
+SD;South Dakota;WNC
+TN;Tennessee;ESC
+TX;Texas;WSC
+UT;Utah;MNT
+VT;Vermont;NEG
+VA;Virginia;SAC
+WA;Washington;PCF
+WV;West Virginia;SAC
+WI;Wisconsin;ENC
+WY;Wyoming;MNT
+OL;Online Transactions;ONL

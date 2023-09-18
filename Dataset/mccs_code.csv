@@ -1,0 +1,320 @@
+﻿MCCsCode;Description;Valid Payment Brand(s);MCCGeneralCat
+742;Veterinary Services;Visa, MasterCard;MCG00001499
+763;Agricultural Cooperatives;Visa, MasterCard;MCG00001499
+780;Horticultural and Landscaping Services;Visa, MasterCard;MCG00001499
+1520;General Contractors - Residential and Commercial;Visa, MasterCard;MCG15002999
+1711;Air Conditioning, Heating and Plumbing Contractors;Visa, MasterCard;MCG15002999
+1731;Electrical Contractors;Visa, MasterCard;MCG15002999
+1740;Insulation, Masonry, Plastering, Stonework and Tile Setting Contractors;Visa, MasterCard;MCG15002999
+1750;Carpentry Contractors;Visa, MasterCard;MCG15002999
+1761;Roofing and Siding, Sheet Metal Work Contractors;Visa, MasterCard;MCG15002999
+1771;Concrete Work Contractors;Visa, MasterCard;MCG15002999
+1799;Contractors, Special Trade Contractors - not elsewhere classified;Visa, MasterCard;MCG15002999
+2741;Miscellaneous Publishing and Printing;Visa, MasterCard;MCG15002999
+2791;Typesetting, Plate Making and Related Services;Visa, MasterCard;MCG15002999
+2842;Sanitation, Polishing and Specialty Cleaning Preparations;Visa, MasterCard;MCG15002999
+4011;Railroads - Freight;Visa, MasterCard;MCG40004799
+4111;Transportation - Suburban and Local Commuter Passenger, including Ferries;Visa, MasterCard;MCG40004799
+4112;Passenger Railways;Visa, MasterCard;MCG40004799
+4119;Ambulance Services;Visa, MasterCard;MCG40004799
+4121;Taxicabs and Limousines;Visa, MasterCard;MCG40004799
+4131;Bus Lines;Visa, MasterCard;MCG40004799
+4214;Motor Freight Carriers,Trucking - Local/Long Distance, Moving and Storage Companies, Local Delivery;Visa, MasterCard;MCG40004799
+4215;Courier Services - Air and Ground, Freight Forwarders;Visa, MasterCard;MCG40004799
+4225;Public Warehousing - Farm Products, Refrigerated Goods, Household Goods Storage;Visa, MasterCard;MCG40004799
+4411;Cruise Lines;Visa, MasterCard;MCG40004799
+4457;Boat Leases and Boat Rentals;Visa, MasterCard;MCG40004799
+4468;Marinas, Marine Service/Supplies;Visa, MasterCard;MCG40004799
+4511;Air Carriers, Airlines - not elsewhere classified;Visa, MasterCard;MCG40004799
+4582;Airports, Airport Terminals, Flying Fields;Visa, MasterCard;MCG40004799
+4722;Travel Agencies and Tour Operators;Visa, MasterCard;MCG40004799
+4723;Package Tour Operators (Germany Only);Visa;MCG40004799
+4761;Telemarketing of Travel Related Services and Vitamins;TSYS;MCG40004799
+4784;Bridge and Road Fees, Tolls;Visa, MasterCard;MCG40004799
+4789;Transportation Services Not Elsewhere Classified;Visa, MasterCard;MCG40004799
+4812;Telecommunication Equipment Including TelephoneSales;Visa, MasterCard;MCG48004900
+4813;Key-Entry Telecom Merchant providing singlelocal and long-distance phone calls using a central access number in a non-face-to-face environment using key entry;MasterCard;MCG48004900
+4814;Telecommunication Services including but notlimited to prepaid phone services and recurring phone services;Visa, MasterCard;MCG48004900
+4816;Computer Network/Information Services;Visa, MasterCard;MCG48004900
+4821;Telegraph Services;Visa, MasterCard;MCG48004900
+4829;Wire Transfer Money Orders (V, D, G, X)Money Transfer (M);Visa, MasterCard;MCG48004900
+4899;Cable, Satellite, and Other Pay Television and Radio Services;Visa, MasterCard;MCG48004900
+4900;Utilities - Electric, Gas, Heating Oil, Sanitary, Water;Visa, MasterCard;MCG48004900
+5013;Motor Vehicle Supplies and New Parts;Visa, MasterCard;MCG50005599
+5021;Office and Commercial Furniture;Visa, MasterCard;MCG50005599
+5039;Construction Materials Not Elsewhere Classified;Visa, MasterCard;MCG50005599
+5044;Office, Photographic, Photocopy and Microfilm Equipment;Visa, MasterCard;MCG50005599
+5045;Computers, Computer Peripheral Equipment,Software;Visa, MasterCard;MCG50005599
+5046;Commercial Equipment Not Elsewhere Classified;Visa, MasterCard;MCG50005599
+5047;Dental/Laboratory/Medical/Ophthalmic Hospital Equipment and Supplies;Visa, MasterCard;MCG50005599
+5051;Metal Service Centers and Offices;Visa, MasterCard;MCG50005599
+5065;Electrical Parts and Equipment;Visa, MasterCard;MCG50005599
+5072;Hardware Equipment and Supplies;Visa, MasterCard;MCG50005599
+5074;Plumbing and Heating Equipment;Visa, MasterCard;MCG50005599
+5085;Industrial Supplies Not Elsewhere Classified;Visa, MasterCard;MCG50005599
+5094;Precious Stones and Metals, Watches and Jewelry;Visa, MasterCard;MCG50005599
+5099;Durable Goods Not Elsewhere Classified;Visa, MasterCard;MCG50005599
+5111;Stationery, Office Supplies, Printing and Writing Paper;Visa, MasterCard;MCG50005599
+5122;Drugs, Drug Proprietors and Druggists Sundries;Visa, MasterCard;MCG50005599
+5131;Piece Goods, Notions, and Other Dry Goods;Visa, MasterCard;MCG50005599
+5137;Men's, Women's and Children's Uniforms and Commercial Clothing;Visa, MasterCard;MCG50005599
+5139;Commercial Footware;Visa, MasterCard;MCG50005599
+5169;Chemicals and Allied Products Not Elsewhere Classified;Visa, MasterCard;MCG50005599
+5172;Petroleum and Petroleum Products;Visa, MasterCard;MCG50005599
+5192;Books, Periodicals and Newspapers;Visa, MasterCard;MCG50005599
+5193;Florists Supplies, Nursery Stock and Flowers;Visa, MasterCard;MCG50005599
+5198;Paints, Varnishes and Supplies;Visa, MasterCard;MCG50005599
+5199;Non-Durable Goods Not Elsewhere Classified;Visa, MasterCard;MCG50005599
+5200;Home Supply Warehouse Stores;Visa, MasterCard;MCG50005599
+5211;Building Materials, Lumber Stores;Visa, MasterCard;MCG50005599
+5231;Glass, Paint, Wallpaper Stores;Visa, MasterCard;MCG50005599
+5251;Hardware Stores;Visa, MasterCard;MCG50005599
+5261;Lawn and Garden Supply Stores;Visa, MasterCard;MCG50005599
+5271;Mobile Home Dealers;Visa, MasterCard;MCG50005599
+5299;Warehouse Club Gas;TSYS;MCG50005599
+5300;Wholesale Clubs;Visa, MasterCard;MCG50005599
+5309;Duty Free Stores;Visa, MasterCard;MCG50005599
+5310;Discount Stores;Visa, MasterCard;MCG50005599
+5311;Department Stores;Visa, MasterCard;MCG50005599
+5331;Variety Stores;Visa, MasterCard;MCG50005599
+5399;Miscellaneous General Merchandise Stores;Visa, MasterCard;MCG50005599
+5411;Grocery Stores, Supermarkets;Visa, MasterCard;MCG50005599
+5422;Freezer and Locker Meat Provisioners;Visa, MasterCard;MCG50005599
+5441;Candy, Nut and Confectionery Stores;Visa, MasterCard;MCG50005599
+5451;Dairy Products Stores;Visa, MasterCard;MCG50005599
+5462;Bakeries;Visa, MasterCard;MCG50005599
+5499;Miscellaneous Food Stores - Convenience Stores,Markets, Specialty Stores, and Vending Machines;Visa, MasterCard;MCG50005599
+5511;Automobile and Truck Dealers - Sales, Service, Repairs, Parts and Leasing;Visa, MasterCard;MCG50005599
+5521;Automobile and Truck Dealers - (Used Only) - Sales;Visa, MasterCard;MCG50005599
+5532;Automotive Tire Stores;Visa, MasterCard;MCG50005599
+5533;Automotive Parts and Accessories Stores;Visa, MasterCard;MCG50005599
+5541;Service Stations (With or Without AncillaryServices);Visa, MasterCard;MCG50005599
+5542;Fuel Dispenser, Automated;Visa, MasterCard;MCG50005599
+5551;Boat Dealers;Visa, MasterCard;MCG50005599
+5561;Camper Dealers, Recreational and Utility Trailers;Visa, MasterCard;MCG50005599
+5571;Motorcycle Shops and Dealers;Visa, MasterCard;MCG50005599
+5592;Motor Home Dealers;Visa, MasterCard;MCG50005599
+5598;Snowmobile Dealers;Visa, MasterCard;MCG50005599
+5599;Miscellaneous Automotive, Aircraft, and Farm Equipment Dealers - Not Elsewhere Classified;Visa, MasterCard;MCG50005599
+5611;Men's and Boys' Clothing and Accessories Stores;Visa, MasterCard;MCG56005699
+5621;Women's Ready to Wear Stores;Visa, MasterCard;MCG56005699
+5631;Women's Accessory and Specialty Stores;Visa, MasterCard;MCG56005699
+5641;Children's and Infants' Wear Stores;Visa, MasterCard;MCG56005699
+5651;Family Clothing Stores;Visa, MasterCard;MCG56005699
+5655;Sports Apparel, and Riding Apparel Stores;Visa, MasterCard;MCG56005699
+5661;Shoe Stores;Visa, MasterCard;MCG56005699
+5681;Furriers and Fur Shops;Visa, MasterCard;MCG56005699
+5691;Men's and Women's Clothing Stores;Visa, MasterCard;MCG56005699
+5697;Alterations, Mending, Seamstresses, Tailors;Visa, MasterCard;MCG56005699
+5698;Wig and Toupee Shops;Visa, MasterCard;MCG56005699
+5699;Accessory and Apparel Stores - Miscellaneous;Visa, MasterCard;MCG56005699
+5712;Equipment, Furniture and Home Furnishings Stores(except Appliances);Visa, MasterCard;MCG57007299
+5713;Floor Covering Stores;Visa, MasterCard;MCG57007299
+5714;Drapery, Upholstery and Window Coverings Stores;Visa, MasterCard;MCG57007299
+5718;Fireplace, Fireplace Screens and Accessories Stores;Visa, MasterCard;MCG57007299
+5719;Miscellaneous House Furnishing Specialty Shops;Visa, MasterCard;MCG57007299
+5722;Household Appliance Stores;Visa, MasterCard;MCG57007299
+5732;Electronics Sales;Visa, MasterCard;MCG57007299
+5733;Music Stores - Musical Instruments, Pianos and Sheet Music;Visa, MasterCard;MCG57007299
+5734;Computer Software Stores;Visa, MasterCard;MCG57007299
+5735;Record Shops;Visa, MasterCard;MCG57007299
+5811;Caterers;Visa, MasterCard;MCG57007299
+5812;Eating Places and Restaurants;Visa, MasterCard;MCG57007299
+5813;Bars, Cocktail Lounges, Discotheques, Nightclubs and Taverns - Drinking Places (Alcoholic Beverages);Visa, MasterCard;MCG57007299
+5814;Fast Food Restaurants;Visa, MasterCard;MCG57007299
+5815;Digital Goods: Books, Movies, Music;Visa, MasterCard;MCG57007299
+5816;Digital Goods: Games;Visa, MasterCard;MCG57007299
+5817;Digital Goods: Applications (Excludes Games);Visa, MasterCard;MCG57007299
+5818;Digital Goods: Large Digital Goods Merchant (V)Digital Goods: Multi-Category (M);Visa, MasterCard;MCG57007299
+5912;Drug Stores and Pharmacies;Visa, MasterCard;MCG57007299
+5921;Package Stores - Beer, Wine and Liquor;Visa, MasterCard;MCG57007299
+5931;Second Hand Stores, Used Merchandise Stores;Visa, MasterCard;MCG57007299
+5932;Antique Shops - Sales, Repairs and RestorationServices;Visa, MasterCard;MCG57007299
+5933;Pawn Shops;Visa, MasterCard;MCG57007299
+5935;Wrecking and Salvage Yards;Visa, MasterCard;MCG57007299
+5937;Antique Reproduction Stores;Visa, MasterCard;MCG57007299
+5940;Bicycle Shops - Sales and Service;Visa, MasterCard;MCG57007299
+5941;Sporting Goods Stores;Visa, MasterCard;MCG57007299
+5942;Book Stores;Visa, MasterCard;MCG57007299
+5943;Office, School Supply and Stationery Stores;Visa, MasterCard;MCG57007299
+5944;Clock, Jewelry, Watch and Silverware Stores;Visa, MasterCard;MCG57007299
+5945;Game, Toy and Hobby Shops;Visa, MasterCard;MCG57007299
+5946;Camera and Photographic Supply Stores;Visa, MasterCard;MCG57007299
+5947;Card, Gift, Novelty and Souvenir Shops;Visa, MasterCard;MCG57007299
+5948;Leather Goods and Luggage Stores;Visa, MasterCard;MCG57007299
+5949;Fabric, Needlework, Piece Goods and Sewing Stores;Visa, MasterCard;MCG57007299
+5950;Crystal and Glassware Stores;Visa, MasterCard;MCG57007299
+5960;Direct Marketing Insurance Services;Visa, MasterCard;MCG57007299
+5961;Mail Order Houses Including Catalog Order Stores;TSYS;MCG57007299
+5962;Direct Marketing - Travel Related ArrangementServices;Visa, MasterCard;MCG57007299
+5963;Door-to-Door Sales;Visa, MasterCard;MCG57007299
+5964;Direct Marketing - Catalog Merchants;Visa, MasterCard;MCG57007299
+5965;Direct Marketing - Combination Catalog and RetailMerchant;Visa, MasterCard;MCG57007299
+5966;Direct Marketing - Outbound Telemarketing Merchants;Visa, MasterCard;MCG57007299
+5967;Direct Marketing - Inbound Telemarketing Merchants;Visa, MasterCard;MCG57007299
+5968;Direct Marketing - Continuity/Subscription Merchants;Visa, MasterCard;MCG57007299
+5969;Direct Marketing - Other Direct Marketers - NotElsewhere Classified;Visa, MasterCard;MCG57007299
+5970;Artist Supply Stores, Craft Shops;Visa, MasterCard;MCG57007299
+5971;Art Dealers and Galleries;Visa, MasterCard;MCG57007299
+5972;Stamp and Coin Stores - Philatelic and NumismaticSupplies;Visa, MasterCard;MCG57007299
+5973;Religious Goods Stores;Visa, MasterCard;MCG57007299
+5974;Rubber Stamp Store;TSYS;MCG57007299
+5975;Hearing Aids - Sales, Service, Supply Stores;Visa, MasterCard;MCG57007299
+5976;Orthopedic Goods - Artificial Limb Stores;Visa, MasterCard;MCG57007299
+5977;Cosmetic Stores;Visa, MasterCard;MCG57007299
+5978;Typewriter Stores - Rentals, Sales, Service;Visa, MasterCard;MCG57007299
+5983;Fuel Dealers - Coal, Fuel Oil, Liquefied Petroleum,Wood;Visa, MasterCard;MCG57007299
+5992;Florists;Visa, MasterCard;MCG57007299
+5993;Cigar Stores and Stands;Visa, MasterCard;MCG57007299
+5994;News Dealers and Newsstands;Visa, MasterCard;MCG57007299
+5995;Pet Shops, Pet Food and Supplies;Visa, MasterCard;MCG57007299
+5996;Swimming Pools - Sales and Supplies;Visa, MasterCard;MCG57007299
+5997;Electric Razor Stores - Sales and Service;Visa, MasterCard;MCG57007299
+5998;Tent and Awning Shops;Visa, MasterCard;MCG57007299
+5999;Miscellaneous and Specialty Retail Stores;Visa, MasterCard;MCG57007299
+6010;Member Financial Institution - Manual Cash Disbursements;Visa, MasterCard;MCG57007299
+6011;Member Financial Institution - Automated Cash Disbursements;Visa, MasterCard;MCG57007299
+6012;Member Financial Institution - Merchandise AndServices;Visa, MasterCard;MCG57007299
+6050;Quasi Cash - Member Financial Institution;MasterCard;MCG57007299
+6051;Quasi Cash - Merchant;Visa, MasterCard;MCG57007299
+6211;Securities - Brokers and Dealers;Visa, MasterCard;MCG57007299
+6236;Aero Servicio Carabobo;TSYS;MCG57007299
+6300;Insurance Sales, Underwriting and Premiums;Visa, MasterCard;MCG57007299
+6381;Insurance - Premiums;TSYS;MCG57007299
+6513;Real Estate Agents and Managers - Rentals;Visa, MasterCard;MCG57007299
+6529;Remote Stored Value Load — Member Financial Institution;TSYS;MCG57007299
+6530;Remove Stored Value Load — Merchant;TSYS;MCG57007299
+6535;Value Purchase - Member Financial Institution;TSYS;MCG57007299
+6536;MoneySend Intracountry;MasterCard;MCG57007299
+6537;MoneySend Intercountry;MasterCard;MCG57007299
+6538;MoneySend Funding;MasterCard;MCG57007299
+6539;Funding Transaction (Excluding MoneySend);MasterCard;MCG57007299
+6540;POI (Point of Interaction) Funding Transactions (Excluding MoneySend);MasterCard;MCG57007299
+6611;Overpayments;TSYS;MCG57007299
+6760;Savings Bonds;TSYS;MCG57007299
+7011;Lodging - Hotels, Motels, Resorts - not elsewhere classified;Visa, MasterCard;MCG57007299
+7012;Timeshares;Visa, MasterCard;MCG57007299
+7032;Sporting and Recreational Camps;Visa, MasterCard;MCG57007299
+7033;Campgrounds and Trailer Parks;Visa, MasterCard;MCG57007299
+7210;Cleaning, Garment and Laundry Services;Visa, MasterCard;MCG57007299
+7211;Laundry Services - Family and Commercial;Visa, MasterCard;MCG57007299
+7216;Dry Cleaners;Visa, MasterCard;MCG57007299
+7217;Carpet and Upholstery Cleaning;Visa, MasterCard;MCG57007299
+7221;Photographic Studios;Visa, MasterCard;MCG57007299
+7230;Barber and Beauty Shops;Visa, MasterCard;MCG57007299
+7251;Hat Cleaning Shops, Shoe Repair Shops, Shoe Shine Parlors;Visa, MasterCard;MCG57007299
+7261;Funeral Service and Crematories;Visa, MasterCard;MCG57007299
+7273;Dating Services;Visa, MasterCard;MCG57007299
+7276;Tax Preparation Service;Visa, MasterCard;MCG57007299
+7277;Debt, Marriage, Personal - Counseling Services;Visa, MasterCard;MCG57007299
+7278;Buying/Shopping Clubs, Services;Visa, MasterCard;MCG57007299
+7280;Hospital Patient-Personal Funds Withdrawal;TSYS;MCG57007299
+7295;Babysitting Services;TSYS;MCG57007299
+7296;Clothing Rental - Costumes, Uniforms and Formal Wear;Visa, MasterCard;MCG57007299
+7297;Massage Parlors;Visa, MasterCard;MCG57007299
+7298;Health and Beauty Spas;Visa, MasterCard;MCG57007299
+7299;Other Services - Not Elsewhere Classified;Visa, MasterCard;MCG57007299
+7311;Advertising Services;Visa, MasterCard;MCG73007999
+7321;Consumer Credit Reporting Agencies;Visa, MasterCard;MCG73007999
+7332;Blueprinting and Photocopying Services;TSYS;MCG73007999
+7333;Commercial Art, Graphics, Photography;Visa, MasterCard;MCG73007999
+7338;Quick Copy, Reproduction and Blueprinting Services;Visa, MasterCard;MCG73007999
+7339;Stenographic and Secretarial Support Services;Visa, MasterCard;MCG73007999
+7342;Exterminating and Disinfecting Services;Visa, MasterCard;MCG73007999
+7349;Cleaning and Maintenance, Janitorial Services;Visa, MasterCard;MCG73007999
+7361;Employment Agencies and Temporary Help Services;Visa, MasterCard;MCG73007999
+7372;Computer Programming, Data Processing and Integrated System Design Services;Visa, MasterCard;MCG73007999
+7375;Information Retrieval Services;Visa, MasterCard;MCG73007999
+7379;Computer Maintenance, Repair And Services - Not Elsewhere Classified;Visa, MasterCard;MCG73007999
+7392;Consulting, Management and Public Relations Services;Visa, MasterCard;MCG73007999
+7393;Detective Agencies, Protective Agencies, Security Services including Armored Cars, Guard Dogs;Visa, MasterCard;MCG73007999
+7394;Equipment Rental and Leasing Services, FurnitureRental, Tool Rental;Visa, MasterCard;MCG73007999
+7395;Photo Developing, Photofinishing Laboratories;Visa, MasterCard;MCG73007999
+7399;Business Services Not Elsewhere Classified;Visa, MasterCard;MCG73007999
+7512;Automobile Rental Agency - Not ElsewhereClassified;Visa, MasterCard;MCG73007999
+7513;Truck Rental;Visa, MasterCard;MCG73007999
+7519;Motor Home and Recreational Vehicle Rental;Visa, MasterCard;MCG73007999
+7523;Automobile Parking Lots and Garages;Visa, MasterCard;MCG73007999
+7524;Express Payment Service Merchants - Parking Lotsand Garages;TSYS;MCG73007999
+7531;Automotive Body Repair Shops;Visa, MasterCard;MCG73007999
+7534;Tire Retreading and Repair Shops;Visa, MasterCard;MCG73007999
+7535;Automotive Paint Shops;Visa, MasterCard;MCG73007999
+7538;Automotive Service Shops;Visa, MasterCard;MCG73007999
+7542;Car Washes;Visa, MasterCard;MCG73007999
+7549;Towing Services;Visa, MasterCard;MCG73007999
+7622;Electronic Repair Shops;Visa, MasterCard;MCG73007999
+7623;Air Conditioning and Refrigeration Repair Shops;Visa, MasterCard;MCG73007999
+7629;Appliance Repair Shops, Electrical and Small;Visa, MasterCard;MCG73007999
+7631;Clock, Jewelry and Watch Repair Shops;Visa, MasterCard;MCG73007999
+7641;Furniture - Reupholstery, Repair and Refinishing;Visa, MasterCard;MCG73007999
+7692;Welding Repair;Visa, MasterCard;MCG73007999
+7699;Miscellaneous Repair Shops and Related Services;Visa, MasterCard;MCG73007999
+7800;Government Owned Lottery;Visa, MasterCard;MCG73007999
+7801;Government-Licensed Casinos (Online or InternetGambling);Visa, MasterCard;MCG73007999
+7802;Government-Licensed Horse/Dog Racing;Visa, MasterCard;MCG73007999
+7829;Motion Picture and Video Tape Production andDistribution;Visa, MasterCard;MCG73007999
+7832;Motion Picture Theaters;Visa, MasterCard;MCG73007999
+7833;Express Payment Service — Motion Picture Theater;TSYS;MCG73007999
+7841;DVD/Video Tape Rental Stores;Visa, MasterCard;MCG73007999
+7911;Dance Halls, Schools and Studios;Visa, MasterCard;MCG73007999
+7922;Theatrical Producers (Except Motion Pictures),Ticket Agencies;Visa, MasterCard;MCG73007999
+7929;Bands, Orchestras and Miscellaneous Entertainers - Not Elsewhere Classified;Visa, MasterCard;MCG73007999
+7932;Pool and Billiard Establishments;Visa, MasterCard;MCG73007999
+7933;Bowling Alleys;Visa, MasterCard;MCG73007999
+7941;Athletic Fields, Commercial Sports, ProfessionalSports Clubs, Sports Promoters;Visa, MasterCard;MCG73007999
+7991;Tourist Attractions and Exhibits;Visa, MasterCard;MCG73007999
+7992;Golf Courses, Public;Visa, MasterCard;MCG73007999
+7993;Video Amusement Game Supplies;Visa, MasterCard;MCG73007999
+7994;Video Game Arcades and Establishments;Visa, MasterCard;MCG73007999
+7995;"Gambling TransactionsBetting (Sportsbook, fantasy, social gaming; when regulated and not covered by other MCCs) (D)";Visa, MasterCard;MCG73007999
+7996;Amusement Parks, Carnivals, Circuses, Carnivals,Fortune Tellers;Visa, MasterCard;MCG73007999
+7997;Clubs - Country Clubs, Membership (Athletic,Recreation, Sports), Private Golf Courses;Visa, MasterCard;MCG73007999
+7998;Aquariums, Dolphinariums, Zoos and Seaquariums;Visa, MasterCard;MCG73007999
+7999;Recreation Services - Not Elsewhere Classified;Visa, MasterCard;MCG73007999
+8011;Doctors - not elsewhere classified;Visa, MasterCard;MCG80008999
+8021;Dentists and Orthodontists;Visa, MasterCard;MCG80008999
+8031;Osteopathic Physicians;Visa, MasterCard;MCG80008999
+8041;Chiropractors;Visa, MasterCard;MCG80008999
+8042;Optometrists and Ophthalmologists;Visa, MasterCard;MCG80008999
+8043;Opticians, Optical Goods and Eyeglasses;Visa, MasterCard;MCG80008999
+8044;Optical Goods and Eyeglasses;TSYS;MCG80008999
+8049;Chiropodists, Podiatrists;Visa, MasterCard;MCG80008999
+8050;Nursing and Personal Care Facilities;Visa, MasterCard;MCG80008999
+8062;Hospitals;Visa, MasterCard;MCG80008999
+8071;Dental and Medical Laboratories;Visa, MasterCard;MCG80008999
+8099;Health Practitioners, Medical Services - Not Elsewhere Classified;Visa, MasterCard;MCG80008999
+8111;Attorneys, Legal Services;Visa, MasterCard;MCG80008999
+8211;Schools, Elementary and Secondary;Visa, MasterCard;MCG80008999
+8220;Colleges, Universities, Professional Schools and Junior Colleges;Visa, MasterCard;MCG80008999
+8241;Schools, Correspondence;Visa, MasterCard;MCG80008999
+8244;Schools, Business and Secretarial;Visa, MasterCard;MCG80008999
+8249;Schools, Trade and Vocational;Visa, MasterCard;MCG80008999
+8299;Schools And Educational Services - Not Elsewhere Classified;Visa, MasterCard;MCG80008999
+8351;Child Care Services;Visa, MasterCard;MCG80008999
+8398;Organizations, Charitable and Social Service;Visa, MasterCard;MCG80008999
+8641;Associations - Civic, Social and Fraternal;Visa, MasterCard;MCG80008999
+8651;Organizations, Political;Visa, MasterCard;MCG80008999
+8661;Organizations, Religious;Visa, MasterCard;MCG80008999
+8675;Automobile Associations;Visa, MasterCard;MCG80008999
+8699;Organizations, Membership - Not Elsewhere Classified;Visa, MasterCard;MCG80008999
+8734;Testing Laboratories (Non-Medical);Visa, MasterCard;MCG80008999
+8743;Testing Laboratories (Non-Medical);TSYS;MCG80008999
+8911;Architectural, Engineering and Surveying Services;Visa, MasterCard;MCG80008999
+8931;Accounting, Auditing and Bookkeeping Services;Visa, MasterCard;MCG80008999
+8999;Professional Services - Not Elsewhere Classified;Visa, MasterCard;MCG80008999
+9034;I-Purchasing Pilot;TSYS;MCG90009999
+9211;Court Costs Including Alimony and Child Support;Visa, MasterCard;MCG90009999
+9222;Fines;Visa, MasterCard;MCG90009999
+9223;Bail and Bond Payments;Visa, MasterCard;MCG90009999
+9311;Tax Payments;Visa, MasterCard;MCG90009999
+9399;Government Services - Not Elsewhere Classified;Visa, MasterCard;MCG90009999
+9401;I-Purchasing Pilot;TSYS;MCG90009999
+9402;Postal Services - Government Only;Visa, MasterCard;MCG90009999
+9405;Intra-Government Purchases - Government Only;Visa, MasterCard;MCG90009999
+9700;Automated Referral Service;Visa;MCG90009999
+9701;Visa Credential Server;Visa;MCG90009999
+9702;GCAS Emergency Services;Visa;MCG90009999
+9751;UK Supermarkets, Electronic Hot File;TSYS;MCG90009999
+9752;UK Petrol Stations, Electronic Hot File;TSYS;MCG90009999
+9754;Gambling-Horse, Dog Racing, State Lottery;MasterCard;MCG90009999
+9950;Intra-Company Purchases;Visa, MasterCard;MCG90009999
