@@ -11,3 +11,6 @@ For the full explanation regarding ETL process with Tableau Prep Builder, please
 The Database design for this project is presented within this Entity Relationship Diagram (ERD) as follows.
 
 ![USA Debit and Credit Cards Transactions Database Schema (Light)](https://github.com/madisuryapr/US-Debit-and-Credit-Cards-Transactions-Analysis/assets/91768688/30e11bfd-9a82-4c67-ad37-1d9fc6f2ae9b)
+
+
+There are 10 Tables within database in which contains all data regarding Personal Debit and Credit cards personal transactions for 1000+ US citizens. This data obtained from diverse sources, such as Kaggle and Citibank.
