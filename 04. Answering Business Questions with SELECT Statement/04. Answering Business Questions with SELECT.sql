@@ -6,7 +6,7 @@
 -- Begin this query by selecting corresponding database
 USE usa_debit_credit_transactions;
 
--- 1. How many users are listed within this database based on their residence state?
+-- Q1. How many users are listed within this database based on their residence state?
 -- Order the result by Number of Users
 SELECT
     si.state_code AS StateCode,
@@ -23,7 +23,7 @@ GROUP BY
 ORDER BY
     NumberOfUsers DESC;
 
--- 2. How much transactions value and volume for both debit and credit cards of
+-- Q2. How much transactions value and volume for both debit and credit cards of
 -- each state of card brand headquarter between 2010 and 2020?
 SELECT
     si.state_code AS StatesCode,
@@ -48,7 +48,7 @@ GROUP BY
 ORDER BY
     TransactionsValue DESC;
 
--- 3. How many transactions volume were occurred for each state? Retrieve the result with descending order.
+-- Q3. How many transactions volume were occurred for each state? Retrieve the result with descending order.
 SELECT
     ctf.states_code AS StateCode,
     si.state_name AS StateName,
@@ -64,7 +64,7 @@ GROUP BY
 ORDER BY
     TransactionsVolume DESC;
 
--- 4. What is the total transactions value for debit cards of California, New York, and Texas?
+-- Q4. What is the total transactions value for debit cards of California, New York, and Texas?
 SELECT
     SUM(transactions_amount) AS TotalTransactionsValue
 FROM
@@ -75,7 +75,7 @@ INNER JOIN
 WHERE
     si.state_code IN ('CA', 'NY', 'TX');
 
--- 5. What are the total cards issued for each card brand?
+-- Q5. What are the total cards issued for each card brand?
 SELECT
     cbi.brand_name AS CardBrandName,
     COUNT(*) AS NumberofCards
