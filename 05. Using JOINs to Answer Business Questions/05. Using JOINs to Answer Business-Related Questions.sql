@@ -8,7 +8,7 @@
 USE usa_debit_credit_transactions;
 
 
--- Q1: What are the totals of transactions amount for each user in 2019? Limit the result for 250 Users
+-- Q1: What are the totals of transactions amount for each user in 2019? Limit the result for Top 250 Users
 SELECT
     TOP 250 ui.user_id AS userid,
     DATEPART(YEAR, ctf.transactions_date) AS year,
@@ -23,7 +23,7 @@ GROUP BY
     ui.user_id, ui.user_name,
     DATEPART(YEAR, ctf.transactions_date)
 ORDER BY
-    userid ASC;
+    total_transactions DESC;
 
 
 -- Q2: How much transactions value occurred for each MCC General Category
